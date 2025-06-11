@@ -35,3 +35,10 @@ python manage.py createsuperuser
 python manage.py shell
 
 ```
+
+## Running tests
+
+```
+python manage.py test polls
+
+```
